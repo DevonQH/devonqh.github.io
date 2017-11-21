@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a gap-year student at Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths (shewwww...) and computer science. I'm currently interested in artificial intelligence and its applications in natural language processing[(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) as well as system optimization.
+I am a gap-year student at Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths (shewwww...) and computer science. I'm currently interested in artificial intelligence and its applications in natural language processing[(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) as well as system optimization. Moreover, you may find my cv [here](./my_cv.pdf).
 
 Although the ML&DL techniques have been widely used and showed great performance, there is still some important logical part missing for supporting these methods. Although my current target is learn about the already-knowns in ML&DL, I do hope to study the hidden logics behind the magic in the future.
 
