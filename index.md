@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Devon's Website
 
-You can use the [editor on GitHub](https://github.com/DevonQH/dingqh14.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a gap-year student at Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths (shewwww...) and computer science. I'm currently interested in artificial intelligence and its applications in natural language processing[(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) as well as system optimization.
 
-### Markdown
+Although the ML&DL techniques have been widely used and showed great performance, there is still some important logical part missing for supporting these methods. Although my current target is learn about the already-knowns in ML&DL, I do hope to study the hidden logics behind the magic in the future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Current Research
 
-```markdown
-Syntax highlighted code block
+####Intelligent TCP Initial Window Selection via Reinforcement Learning
 
-# Header 1
-## Header 2
-### Header 3
+The [TCP initial window](https://en.wikipedia.org/wiki/TCP_congestion_control) is a critical parameter in determining the transmitting speed of the files across the network. However, traditional congestion control algorihtms are too conservative about tuning this parameter, causing insufficient use of network capacity. We propose a RL-based centralised optimization framework for TCP initial window selection. The testbed-based experiment demostrate up to 100ms reduction in round trip time(rtt). The large-scale online experiment is ongoing in Baidu.com.
 
-- Bulleted
-- List
+####Document Summarization via RL Algorithms
 
-1. Numbered
-2. List
+Surveying...
 
-**Bold** and _Italic_ and `Code` text
+###Tech Blogs
 
-[Link](url) and ![Image](src)
-```
+To be added...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###Personal Life
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevonQH/dingqh14.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My life is full of happiness and good luck. I have a good boyfriend, Joris, who is caring for my personal life. Our boys and girls -- Teacher Cang, a one-year old hamster and Blackie, a three-month old cat is celever and cute. Also, our parents are quite supportive and understanding of our relationship. 
