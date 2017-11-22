@@ -1,6 +1,6 @@
-## Welcome to Devon's Website
+# Welcome to Devon's Website
 
-### About Me
+## About Me
 
 I am a gap-year student at Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths (shewwww...) and computer science. I'm currently interested in artificial intelligence and its applications in natural language processing[(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) as well as system optimization. Moreover, you may find my cv [here](./my_cv.pdf).
 
@@ -8,20 +8,24 @@ Although the ML&DL techniques have been widely used and showed great performance
 
 PS: My past reseach interest is about game theory and network economics. You may find an old version of my cv [here](./past_cv.pdf).
 
-### Current Research
+## Current Research
 
-#### Intelligent TCP Initial Window Selection via Reinforcement Learning
+### Intelligent TCP Initial Window Selection via Reinforcement Learning
 
 The [TCP initial window](https://en.wikipedia.org/wiki/TCP_congestion_control) is a critical parameter in determining the transmitting speed of the files across the network. However, traditional congestion control algorihtms are too conservative about tuning this parameter, causing insufficient use of network capacity. We propose a RL-based centralised optimization framework for TCP initial window selection. The testbed-based experiment demostrate up to 100ms reduction in round trip time(rtt). The large-scale online experiment is ongoing in Baidu.com.
 
-#### Document Summarization via RL Algorithms
+### Document Summarization via RL Algorithms
 
-Surveying...
+Survey Period(Nov.2017-present): The surveys are being updated at times.
 
-### Tech Blogs
+1. (2012 EMNLP) [Framework of Automatic Text Summarization Using Reinforcement Learning](./rl_12.pdf). Seonggi Ryang and Takeshi Abekawa.
+
+Introduction(Full version [here](./blog/blog_1.md)): The reinforcement learning can be naturally extended to the case of text summarization and sentence simplification. This paper first point out and demonstrate this idea.
+
+## Tech Blogs
 
 To be added...
 
-### Personal Life
+## Personal Life
 
 My life is full of happiness and good luck. I have a good boyfriend, Joris, who is caring for my personal life. Our boys and girls -- Teacher Cang, a one-year old hamster and Blackie, a three-month old cat is celever and cute. Also, our parents are quite supportive and understanding of our relationship. 
