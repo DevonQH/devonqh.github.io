@@ -4,8 +4,6 @@
 
 Have u ever been comfused by a group of problems -- sentence simplification, just like below?
 
-![ss_1](./ss_1.jpg =100x)
-
 ![ss_2](./ss_2.jpg)
 
 The sentence simplification is quite subtle and untractable. And in most tests (Gaokao and Toefl,etc.), it seems to be more art than science. However, NLPers dare to have a say on it. We model, we analyse and we solve it.
