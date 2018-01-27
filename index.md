@@ -2,30 +2,12 @@
 
 ## About Me
 
-I am a gap-year student at Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths (shewwww...) and computer science. I'm currently interested in artificial intelligence and its applications in natural language processing[(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) as well as system optimization. Moreover, you may find my cv [here](./my_cv.pdf).
+I am a fourth-year student at the Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths and its applications in the computer science. I'm currently interested in computational learning theory. Moreover, you may find my cv [here](./my_cv.pdf).
 
-Although the ML&DL techniques have been widely used and showed great performance, there is still some important logical part missing for supporting these methods. Although my current target is learn about the already-knowns in ML&DL, I do hope to study the hidden logics behind the magic in the future.
+PS: My past reseach interest is about applied game theory in networks. You may find an older version of my cv [here](./past_cv.pdf).
 
-PS: My past reseach interest is about game theory and network economics. You may find an old version of my cv [here](./past_cv.pdf).
+## 
 
-## Current Research
+## About My Life
 
-### Intelligent TCP Initial Window Selection via Reinforcement Learning
-
-The [TCP initial window](https://en.wikipedia.org/wiki/TCP_congestion_control) is a critical parameter in determining the transmitting speed of the files across the network. However, traditional congestion control algorihtms are too conservative about tuning this parameter, causing insufficient use of network capacity. We propose a RL-based centralised optimization framework for TCP initial window selection. The testbed-based experiment demostrate up to 100ms reduction in round trip time(rtt). The large-scale online experiment is ongoing in Baidu.com.
-
-### Document Summarization via RL Algorithms
-
-Survey Period(Nov.2017-present): The surveys are being updated at times.
-
-1. (2012 EMNLP) [Framework of Automatic Text Summarization Using Reinforcement Learning](./rl_12.pdf). Seonggi Ryang and Takeshi Abekawa.
-
-Introduction(Full version [here](./blog/blog_1.md)): The reinforcement learning can be naturally extended to the case of text summarization and sentence simplification. This paper first point out and demonstrate this idea.
-
-## Tech Blogs
-
-To be added...
-
-## Personal Life
-
-My life is full of happiness and good luck. I have a good boyfriend, Joris, who is caring for my personal life. Our boys and girls -- Teacher Cang, a one-year old hamster and Blackie, a three-month old cat is celever and cute. Also, our parents are quite supportive and understanding of our relationship. 
+My life is full of happiness and good luck. I have a great soul mate, Joris, who is also caring for my personal life. Our boys and girls -- Teacher Cang, a one-year old hamster and Blackie, a three-month old cat is clever and cute. Also, our parents are quite supportive and understanding of our relationship. 
