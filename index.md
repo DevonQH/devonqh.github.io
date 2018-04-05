@@ -1,26 +1,36 @@
-# Welcome to Devon's Website
+#Welcome to Qinghua Ding(Devon)'s Website
 
 ## About Me
 
 I am a fourth-year student at the Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths and its applications in the computer science. I'm currently interested in nonconvex optimization. Moreover, you may find my cv [here](./my_cv.pdf).
 
+## My Blogs
+
+You may follow me at the [wordpress](https://devonsplace.wordpress.com/), where I'll discuss about my works.
+
 ## About My Research
 
-I'm currently studying the nonconvex optimization problems. A very useful website can be attained [here (off the convex path)](http://www.offconvex.org/).
+I'm currently studying the nonconvex optimization problems. A very useful website can be attained [here (off the convex path)](http://www.offconvex.org/). And [here](./opt.pdf) is a helpful note on convex optimization.
 
-[Here](./opt.pdf) is a helpful note on convex optimization.
+Previously I've been working on projects using reinforcement learning techniques in optimizations of computer networks. Namely, they are as follows.
+
+#### Using Hierarchical Reinforcement Learning in Text Summarization
+
+[Github](https://github.com/DevonQH/RL_summ) NLP Lab, THU.
+
+#### Using Reinforment Learning in TCP Initial Window Selection.
+
+[Github](https://github.com/Alan-Nie/nginx) Netman Lab, THU.
+
+And to note with honor, I joined the program of VDX at CMU last summer, and built a XIA-based VDX protocol for simulation, and [our work](./vdx.pdf) is PRIZE-WINNING at CoNext 2017. (Although not in the author list :-)
 
 ## Publications
 
 My publications are mainly about optimization and mechanism design in content delivery networks, which is my PREVIOUS research interest.
 
-### Optimization in Computer Networks
-
 #### First Mile in Crowdsourced Live Streaming: A Content Harvest Network Approach
 
 [PDF](./first.pdf) H. Pang, Z. Wang, C. Yan, Q. Ding, L. Sun. Themantics Workshop, ACM Multimedia 2017.
-
-### Mechanism Design in Computer Networks
 
 #### SAM: Cache Space Allocation in Collaborative Edge-caching Network
 
@@ -32,9 +42,7 @@ My publications are mainly about optimization and mechanism design in content de
 
 #### Contract-and-Spot Hybrid Mechanism for Edge Caching Service Provisioning
 
-[REPORT](./contra) Q. Ding, H. Yu, L. Gao, J. Huang. Work done at the CUHK.
-
-### Econmics Analysis in Computer Networks
+[REPORT](./contra.pdf) Q. Ding, H. Yu, L. Gao, J. Huang. Work done at the CUHK.
 
 #### When Data Sponsoring Meets Edge Caching: A Game-Theoretic Analysis
 
@@ -42,9 +50,7 @@ My publications are mainly about optimization and mechanism design in content de
 
 #### Economics Analysis of ISP-CP Cooperation
 
-[REPORT](./rep) Q. Ding, L. Duan. Work done at the SUTD.
-
-### Misc..
+[REPORT](./rep.pdf) Q. Ding, L. Duan. Work done at the SUTD.
 
 #### An experimental study of real-time identification of construction workers' unsafe behaviors
 
