@@ -32,7 +32,7 @@ My publications are mainly about optimization and mechanism design in content de
 
 #### Contract-and-Spot Hybrid Mechanism for Edge Caching Service Provisioning
 
-[REPORT](./contra.pdf) Q. Ding, H. Yu, L. Gao, J. Huang. Work done at the CUHK.
+[REPORT](./contra) Q. Ding, H. Yu, L. Gao, J. Huang. Work done at the CUHK.
 
 ### Econmics Analysis in Computer Networks
 
@@ -42,7 +42,7 @@ My publications are mainly about optimization and mechanism design in content de
 
 #### Economics Analysis of ISP-CP Cooperation
 
-[REPORT](./rep.pdf) Q. Ding, L. Duan. Work done at the SUTD.
+[REPORT](./rep) Q. Ding, L. Duan. Work done at the SUTD.
 
 ### Misc..
 
