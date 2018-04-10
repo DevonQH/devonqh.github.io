@@ -1,4 +1,4 @@
-# Welcome to Qinghua Ding(Devon)'s Website
+#Welcome to Qinghua Ding(Devon)'s Website
 
 ## About Me
 
@@ -21,40 +21,6 @@ Previously I've been working on projects using reinforcement learning techniques
 #### Using Reinforment Learning in TCP Initial Window Selection.
 
 [Github](https://github.com/Alan-Nie/nginx) Netman Lab, THU.
-
-And to note with honor, I joined the program of VDX at CMU last summer, and built a XIA-based VDX protocol for simulation, and [our work](./vdx.pdf) is PRIZE-WINNING at CoNext 2017. (Although not in the author list :-)
-
-## Publications
-
-My publications are mainly about optimization and mechanism design in content delivery networks, which is my PREVIOUS research interest.
-
-#### First Mile in Crowdsourced Live Streaming: A Content Harvest Network Approach
-
-[PDF](./first.pdf) H. Pang, Z. Wang, C. Yan, Q. Ding, L. Sun. Themantics Workshop, ACM Multimedia 2017.
-
-#### SAM: Cache Space Allocation in Collaborative Edge-caching Network
-
-[PDF](./sam.pdf) Q. Ding, H. Pang, L. Sun. IEEE ICC 2017.
-
-#### Location Dependent Pricing in Edge Caching Market with Non-uniform Popularity
-
-[PDF](./ldp.pdf) Q. Ding, H. Pang, L. Sun. IEEE ICC 2018.
-
-#### Contract-and-Spot Hybrid Mechanism for Edge Caching Service Provisioning
-
-[REPORT](./contra.pdf) Q. Ding, H. Yu, L. Gao, J. Huang. Work done at the CUHK.
-
-#### When Data Sponsoring Meets Edge Caching: A Game-Theoretic Analysis
-
-[PDF](./edge.pdf) H. Pang, L. Gao, Q. Ding, L. Sun. IEEE Globecom 2017.
-
-#### Economics Analysis of ISP-CP Cooperation
-
-[REPORT](./rep.pdf) Q. Ding, L. Duan. Work done at the SUTD.
-
-#### An experimental study of real-time identification of construction workers' unsafe behaviors
-
-[PDF](./aic.pdf) Y. Yu, H. Guo, Q. Ding, H. Li, M. Skitmore.
 
 ## About My Life
 
