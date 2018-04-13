@@ -1,8 +1,8 @@
-#Welcome to Qinghua Ding(Devon)'s Website
+# Welcome to Qinghua Ding(Devon)'s Website
 
 ## About Me
 
-I am a fourth-year student at the Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths and its applications in the computer science. I'm currently interested in nonconvex optimization. Moreover, you may find my cv [here](./my_cv.pdf).
+I am a third-year student at the Computer Science and Technology Department, Tsinghua Univerisity. I like elegant maths and its applications in the computer science. I'm currently interested in nonconvex optimization. Moreover, you may find my cv [here](./my_cv.pdf).
 
 ## My Blogs
 
@@ -18,10 +18,14 @@ Previously I've been working on projects using reinforcement learning techniques
 
 [Github](https://github.com/DevonQH/RL_summ) NLP Lab, THU.
 
+In this project, we used hierarchical reinforcement learning method for text summarization, and achieved the state-of-art ROUGE score on NewYork Times dataset.
+
 #### Using Reinforment Learning in TCP Initial Window Selection.
 
 [Github](https://github.com/Alan-Nie/nginx) Netman Lab, THU.
 
+In this project, we used grouping algorithms for grouping clients and slide window UCB for initial window selection. Our algorithm can improve the network performance (rtt + latency) by up to 50 percent. Our algorithm are also used in online tests at Baidu's data centers and proved to improve by 10% in real cases.
+
 ## About My Life
 
-My life is full of happiness and good luck. I have a great soul mate, Joris, who is also caring for my personal life. Our girl -- Teacher Cang, a one-year old hamster likes to chub woods. Also, our parents are quite warm-hearted and supports our relationship. 
+My life is full of happiness and good luck. I have a great soul mate, Joris, who is also caring for my personal life. Our girl -- Teacher Cang -- a one-year-old hamster likes to chub woods. Also, our parents are quite warm-hearted and support our relationship. 
