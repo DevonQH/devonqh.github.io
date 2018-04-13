@@ -16,15 +16,15 @@ Previously I've been working on projects using **reinforcement learning** techni
 
 #### Using Hierarchical Reinforcement Learning in Text Summarization
 
-++[[Github](https://github.com/DevonQH/RL_summ)]++ NLP Lab, THU.
+[[Github](https://github.com/DevonQH/RL_summ)] NLP Lab, THU.
 
-###### In this project, we used hierarchical reinforcement learning method for text summarization, and achieved the state-of-art ROUGE score on NewYork Times dataset.
+##### In this project, we used hierarchical reinforcement learning method for text summarization, and achieved the state-of-art ROUGE score on NewYork Times dataset.
 
 #### Using Reinforment Learning in TCP Initial Window Selection.
 
-++[[Github](https://github.com/Alan-Nie/nginx)]++ Netman Lab, THU.
+[[Github](https://github.com/Alan-Nie/nginx)] Netman Lab, THU.
 
-###### In this project, we used grouping algorithms for grouping clients and slide window UCB for initial window selection. Our algorithm can improve the network performance (rtt + latency) by up to 50 percent. Our algorithm are also used in online tests at Baidu's data centers and proved to improve by 10% in real cases.
+##### In this project, we used grouping algorithms for grouping clients and slide window UCB for initial window selection. Our algorithm can improve the network performance (rtt + latency) by up to 50 percent. Our algorithm are also used in online tests at Baidu's data centers and proved to improve by 10% in real cases.
 
 ## About My Life
 
