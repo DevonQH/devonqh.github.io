@@ -10,21 +10,11 @@ You may follow me at the [wordpress](https://devonsplace.wordpress.com/), where 
 
 ## About My Research
 
-I'm currently studying the **nonconvex optimization** problems. A very useful website can be attained [here (off the convex path)](http://www.offconvex.org/). And [here](./opt.pdf) is a helpful note on *convex optimization*.
+I'm currently studying the **nonconvex optimization** problems. A very useful website can be attained [here (off the convex path)](http://www.offconvex.org/). And [here](./opt.pdf) is a helpful cheatshet on *convex optimization*.
 
-Previously I've been working on projects using **reinforcement learning** techniques in optimizations of computer networks. Namely, they are as follows.
+Recently I've been widely reading about convex and non-convex optimization methods. And I have done a summary about classical convex or nonlinear optimization methods. You may find my summary [here](./summary.pdf)
 
-#### Using Hierarchical Reinforcement Learning in Text Summarization
-
-[[Github](https://github.com/DevonQH/RL_summ)] NLP Lab, THU.
-
-##### In this project, we used hierarchical reinforcement learning method for text summarization, and achieved the state-of-art ROUGE score on NewYork Times dataset.
-
-#### Using Reinforment Learning in TCP Initial Window Selection.
-
-[[Github](https://github.com/Alan-Nie/nginx)] Netman Lab, THU.
-
-##### In this project, we used grouping algorithms for grouping clients and slide window UCB for initial window selection. Our algorithm can improve the network performance (rtt + latency) by up to 50 percent. Our algorithm are also used in online tests at Baidu's data centers and proved to improve by 10% in real cases.
+And I'm going to make another summary on stochastic optimization, composite optimization, and MOST IMPORTANTLY, recent advances in non-convex optimization methods in these areas. Please stay tuned.
 
 ## About My Life
 
